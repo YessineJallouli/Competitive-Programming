@@ -73,7 +73,7 @@ int main() {
                         sm-=it4.first;
                         break;
                     }
-                    int j= upper_bound(P.begin(),P.end(),make_pair(B-sm,(string)"*"))-P.begin();
+                    int j= upper_bound(P.begin(),P.end(),make_pair(B-sm,(string)"{"))-P.begin();
                     if(j){
                         j--;
                         while(j){
