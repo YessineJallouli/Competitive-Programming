@@ -1,6 +1,6 @@
 /*
 	Failure is not the reason for you to stop trying
-	   it is actually a remainder that you should
+	   it is actually a reminder that you should
 			KEEP GOING
 */
 #include<bits/stdc++.h>
