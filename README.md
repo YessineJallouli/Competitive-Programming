@@ -43,6 +43,8 @@ For more detailed information, algorithms, and tools for contests, please visit 
 
 And much more, including data structures, algorithms, strings, and techniques.
 
+**I will update the wiki regularly to include new topics that I learn.**
+
 ## How to Use
 
 1. Clone the repository:
